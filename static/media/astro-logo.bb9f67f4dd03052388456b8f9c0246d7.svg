@@ -1,0 +1,51 @@
+<!-- astro-logo.svg -->
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="200"
+  height="200"
+  viewBox="0 0 200 200"
+>
+  <!-- Outer circle with gold stroke -->
+  <circle
+    cx="100"
+    cy="100"
+    r="90"
+    fill="darkblue"
+    stroke="gold"
+    stroke-width="4"
+  />
+
+  <!-- 12 small circles representing the zodiac -->
+  <!-- They are placed in a circular pattern, each 30 degrees apart -->
+  <circle cx="100" cy="30"  r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="136"  cy="36"  r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="164"  cy="64"  r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="170"  cy="100" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="164"  cy="136" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="136"  cy="164" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="100"  cy="170" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="64"   cy="164" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="36"   cy="136" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="30"   cy="100" r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="36"   cy="64"  r="4" fill="gold" stroke="white" stroke-width="1" />
+  <circle cx="64"   cy="36"  r="4" fill="gold" stroke="white" stroke-width="1" />
+
+  <!-- A gold star in the center -->
+  <polygon
+    points="
+      100,40
+      112,80
+      150,80
+      118,105
+      128,145
+      100,120
+      72,145
+      82,105
+      50,80
+      88,80
+    "
+    fill="gold"
+    stroke="white"
+    stroke-width="2"
+  />
+</svg>

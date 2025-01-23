@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/horoscope-app/static/css/main.255d1570.css",
+    "main.js": "/horoscope-app/static/js/main.01631995.js",
+    "static/js/488.9c92ff38.chunk.js": "/horoscope-app/static/js/488.9c92ff38.chunk.js",
+    "static/media/stars.jpg": "/horoscope-app/static/media/stars.18b76d37f7d3b8defd8d.jpg",
+    "static/media/astro-logo.svg": "/horoscope-app/static/media/astro-logo.bb9f67f4dd03052388456b8f9c0246d7.svg",
+    "index.html": "/horoscope-app/index.html",
+    "main.255d1570.css.map": "/horoscope-app/static/css/main.255d1570.css.map",
+    "main.01631995.js.map": "/horoscope-app/static/js/main.01631995.js.map",
+    "488.9c92ff38.chunk.js.map": "/horoscope-app/static/js/488.9c92ff38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.255d1570.css",
+    "static/js/main.01631995.js"
+  ]
+}
