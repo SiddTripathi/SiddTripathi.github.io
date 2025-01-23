@@ -1,0 +1,22 @@
+.app-container {
+  position: relative;
+  text-align: center;
+  background: url("./assets/stars.jpg") no-repeat center center fixed;
+  background-size: cover;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.circular-text {
+  position: absolute;
+  rotate: -88deg;
+  top: -25%; /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%); /* Perfect centering */
+  width: 600px; /* Adjust to match the clock size */
+  height: 600px;
+  pointer-events: none; /* Prevent interaction */
+}
